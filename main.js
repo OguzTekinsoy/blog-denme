@@ -1,0 +1,3 @@
+function Blog_Yazısı(){
+  
+}

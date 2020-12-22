@@ -1,0 +1,40 @@
+.Blogger{
+  justify-content: space-around;
+  color: #4EA664;
+  text-align:center;
+  font-size: 36px;
+  font-family: acuta, serif;
+  font-weight: 700;
+  font-style: italic;
+}
+.Blog_Başligi{
+  text-align: center;
+  color: #0B0326;
+  margin-top: 75px;
+  font-family: acuta,serif;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 24px;
+}
+.Blog_Yazisi{
+  text-align: center;
+  color: #424D8C;
+  margin-bottom: 20px;
+  font-family: acuta,serif;
+  font-weight: 700;
+  font-style: italic;
+}
+.links{
+  text-align: center;
+  margin-top: 50px;
+}
+.about_me{
+  text-align: center;
+  text-align: center;
+  color: #0B0326;
+  margin-top: 75px;
+  font-family: acuta,serif;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 24px;
+}
